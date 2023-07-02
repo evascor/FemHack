@@ -1,4 +1,4 @@
-# Data Science FemHack challenge
+# Data Science FemHack challenge '23
 ## TEAM: DataExplorers
 ### TEAM MEMBERS:
 Zulema [https://linkedin.com/in/zulema-orellana-herrera] | Elisabet [https://linkedin.com/in/evascor]
