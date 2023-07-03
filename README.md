@@ -13,7 +13,7 @@ To determine and generate the ideal prediction model, we tested different models
 - SVM
 - Boosting Gradient 
 After testing it is determined that the Decision Tree model in conjunction with the Random Forest offers a suitable percentage. ✅
-However, the samples provided have sampling edesbalance so oversampling and undersampling measures have been applied to normalize the samples.⚠️
+ #### However, the samples provided have sampling edesbalance so oversampling and undersampling measures have been applied to normalize the samples.⚠️
 
 ###  📢 CONCLUSIONS 
 As a conclusion and axis of improvement, it is advisable to introduce more samples whose victory_flag is positive(1) in order to avoid the tendency to overfitting and consequently the model will be better trained and therefore the prediction will be more accurate.🚀 📊
